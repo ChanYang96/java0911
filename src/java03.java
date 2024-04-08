@@ -7,6 +7,7 @@ public class java03 {
         String UserRPS ="";
         Scanner scan = new Scanner(System.in);
 
+
         while (true){
             System.out.println("가위 바위 보!");
             randomRPS = (int)(Math.random()*3);
